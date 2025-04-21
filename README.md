@@ -1,1 +1,1 @@
-https://github.com/WILDER-YOEL-SALAZAR-AREVALO/PROYECTO.git
+https://wilder-yoel-salazar-arevalo.github.io/PROYECTO/
